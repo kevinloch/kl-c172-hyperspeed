@@ -26,7 +26,7 @@ Tips for hyperspeed and/or high altitude operation
 - For maximum performance takeoffs set elevator trim to -20% before takeoff.  Retract flaps once airborne and elevator trim gradually to -80% as max speed is attained.  You can also takeoff like you normally would in a C172 if you keep RPM to 2500 and accelerate to faster speeds once airborne.
 - To slow down: set throttle to idle and extend flaps.  More flaps will create more drag
 - For maximum deceleration: set throttle to idle, extend flaps, and set mixture to 'cutoff'.  Descend to a lower altitude if necessary
-- For intermediate speed cruising such as flying alongside an airliner, extend flaps 10 or 20 degrees and adjust throttle for desired airspeed.  At these middle flaps settings airspeed can be controlled reasonably well with the throttle in the 300-600 knot range.
+- For intermediate speed cruising such as flying alongside an airliner, extend flaps 10 or 20 degrees and adjust throttle for desired airspeed.  At these middle flaps settings airspeed can be controlled well with the throttle in the 200-600 knot range.
 - Above about 60,000 feet altitude extend flaps or you will automatically accelerate to max airspeed regardless of throttle setting.  Mixture cutoff may occasionally be required under these conditions.
 - For turns at very high speeds, bank 90 degrees in the direction of the turn and pull back on the stick VERY slightly.  Too much elevator is counterproductive and has the unexpected side effect of increasing airspeed, even beyond the normal limits for a given altitude.  Adjust bank angle for desired vertical speed.
 - Slowing down will allow for tighter turns
