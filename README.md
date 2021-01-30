@@ -22,7 +22,7 @@ A few things are different however even in the low speed/altitude realm
 ## Hyperspeed/Hyperaltitude Operation
 Above 3000 RPM the engine has a physically impossible self-reinforcing power curve limited only by propeler drag which is a function of airspeed and altitude.  At very high altitudes this means you cannot idle the engine just by closing the throttle.   You must use drag (from flap extension) to slow the aircraft down so RPM can drop.  Descending will also help as the denser air will help slow the prop.
 
-Tips for hyper speed and/or altitude operation
+Tips for hyperspeed and/or high altitude operation
 - For maximum performance takeoffs set elevator trim to -20% before takeoff.  Retract flaps once airborne and elevator trim gradually to -80% as max speed is attained.  You can also takeoff like you normally would in a C172 if you keep RPM to 2500 and accelerate to faster speeds once airborne.
 - To slow down: set throttle to idle and extend flaps.  More flaps will create more drag and slow faster
 - For maximum deceleration: set throttle to idle, extend flaps, and set mixture to 'cutoff'.  Descending to a lower altitude also helps.
