@@ -11,7 +11,7 @@ Copy the `kl-aircraft-c172` folder inside the zip file to your MSFS Community fo
 This mod requires the 'Modern' flight model and 'Disable Crashes' (set automatically when you enable developer mode in the sim).  In the 'Classic' flight model the aircraft is uncontrolable at high speeds.   If 'Disable Crashes' mode is not set you can easily overstress the aircraft and end the flight.  Ignoring the maximum speeds for flap extension is one of the reasons for this but also general aircraft stress limits.  I will look at eliminating the 'Disable Crashes' requirement in future versions.
 
 ## Normal Flight Envelope Operation
-The hyperspeed modded C172 should behave vrey much like the default aircraft under normal C172 airspeeds and altitudes IF you keep the engine RPM under 3000.  
+The hyperspeed modded C172 should behave vrey much like the default aircraft under normal C172 airspeeds and altitudes <b>IF you keep the engine RPM under 3000</b>.  
 
 A few things are different however even in the low speed/altitude realm:
 - Keep RPM around 2500 to remain in normal C172 flight conditions.  Do not allow RPM to exceed 3000 or you will quickly enter hyperspeed conditions.   If you do accidentially go faster than you want, extend flaps (regardless of airspeed) and idle throttle until you get below 3000 RPM.
