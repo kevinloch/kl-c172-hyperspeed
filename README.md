@@ -13,7 +13,7 @@ This mod requires the 'Modern' flight model and 'Disable Crashes' (set automatic
 ## Normal Flight Envelope Operation
 The hyperspeed modded C172 should behave vrey much like the default aircraft under normal C172 airspeeds and altitudes <b>IF you keep the engine RPM under 3000</b>.  
 
-A few things are different however even in the low speed/altitude realm:
+A few things are different however even in the low speed/altitude realm
 - Keep RPM around 2500 to remain in normal C172 flight conditions.  Do not allow RPM to exceed 3000 or you will quickly enter hyperspeed conditions.   If you do accidentially go faster than you want, extend flaps (regardless of airspeed) and idle throttle until you get below 3000 RPM.
 - Mixture is set to 'Auto'.  If you have a controller bound to the mixture axis it will only control 'run' and 'cutoff', it will not adjust mixture.   This was necessary to support high altitudes.
 - The fuselage and Landing gear drag coefficients have been set very low to support high speeds.  These drag settings have been added to the flaps drag so that when flaps are fully deployed it will have the same total drag as the stock C172.  When flaps are up the drag is very low which affects acceleration and deceleration. Since most slow/slowing flight is done with flaps at leat partially extended this seems like a reasonable compromise.  You can extend flaps at any speed to slow if idle throttle isn't enough.
